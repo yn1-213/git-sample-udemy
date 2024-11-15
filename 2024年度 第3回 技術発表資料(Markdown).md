@@ -49,7 +49,7 @@ headingDivider: 1
 
 # 業務におけるMarkdownの利用
 
- - 
+ - 文書作成：
  - 
  - 
 
